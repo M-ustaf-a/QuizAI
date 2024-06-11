@@ -27,7 +27,7 @@
     "framer-motion": "^10.18.0",
     "langchain": "^0.1.30",
     "lucide-react": "^0.309.0",
-    "next": "14.0.1",
+    "next": "^14.2.3",
     "next-auth": "^5.0.0-beta.5",
     "pdf-parse": "^1.1.1",
     "pg": "^8.11.3",
