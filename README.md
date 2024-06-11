@@ -1,6 +1,6 @@
 The project that uses AI to generate quizzes.
 
-<img width="1399" alt="Screenshot 2024-01-22 at 3 34 26 PM" src="https://github.com/judygab/ai-form-builder-tutorial/assets/50160672/443a69ed-e441-412a-a84e-ea820022c6dc">
+<img width="1399" alt="">
 
 ## Tech Stack 
 
