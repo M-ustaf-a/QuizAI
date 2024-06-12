@@ -11,7 +11,6 @@ The project that uses AI to generate quizzes.
 - Drizzle - Orm
 - PostgreSQL - Database
 - Supabase - Database hosting
-- Stripe - Payments
 - Tanstack - Table
 - Typescript - Type Checking
 - Vercel - Deployment
